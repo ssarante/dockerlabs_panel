@@ -2,6 +2,8 @@
 
 Esta es una aplicación web basada en Flask para gestionar contenedores e imágenes de Docker. Permite a los usuarios desplegar, detener y eliminar contenedores de Docker, así como cargar y eliminar imágenes de Docker.
 
+esto fue probado en kali linux
+
 ## Requisitos
 
 - Python 3.x
@@ -19,13 +21,18 @@ Esta es una aplicación web basada en Flask para gestionar contenedores e imáge
 
 
 
-## Uso python app.py
+## Uso python panel.py
 
 1. Inicia el servidor Flask:
+  2. como iniciar: python panel.py
+    3. ![image](https://github.com/ssarante/dockerlabs_panel/assets/39504876/6dc0aac4-7859-4ee0-a3d6-a38250f80d98)
+  
 
-2. Abre tu navegador web y accede a `http://localhost:5000`.
+4. Abre tu navegador web y accede a `http://localhost:5000`.
+  5.   ![image](https://github.com/ssarante/dockerlabs_panel/assets/39504876/b0d7c598-5fec-4069-83cf-8fa6b33b87aa)
 
-3. Utiliza la interfaz web para gestionar contenedores e imágenes de Docker.
+
+6. Utiliza la interfaz web para gestionar contenedores e imágenes de Docker.
 
 ## Características
 
