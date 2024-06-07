@@ -33,6 +33,10 @@ esto fue probado en kali linux
 
 
 6. Utiliza la interfaz web para gestionar contenedores e imágenes de Docker.
+  7.   ![image](https://github.com/ssarante/dockerlabs_panel/assets/39504876/d7920d85-6780-44c6-af96-d8e49287a690)
+  8.   ![image](https://github.com/ssarante/dockerlabs_panel/assets/39504876/aea73b44-0510-4bf8-8cf4-325046783ff8)
+
+
 
 ## Características
 
